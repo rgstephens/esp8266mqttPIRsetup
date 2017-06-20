@@ -31,6 +31,8 @@ Topic|Use
 esp8266/config/delay | main loop delay in milleseconds
 esp8266/config/ipinterval | number of intervals between sending IP address, zero to never send
 
-## Wiring photo
+## Wiring photos
 
-![Photo of Wiring](https://github.com/rgstephens/esp8266mqttPIR/blob/master/pirWiring.jpg)
+![esp8266](https://github.com/rgstephens/esp8266mqttPIRsetup/blob/master/esp8266.jpg)
+![hc-sr501](https://github.com/rgstephens/esp8266mqttPIRsetup/blob/master/hc-sr501.jpg)
+![Photo of Wiring](https://github.com/rgstephens/esp8266mqttPIRsetup/blob/master/pirWiring.jpg)
