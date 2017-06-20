@@ -33,4 +33,6 @@ esp8266/config/ipinterval | number of intervals between sending IP address, zero
 
 ## Wiring photo
 
+![esp8266](https://github.com/rgstephens/esp8266mqttPIR/blob/master/esp8266.jpg)
+![hc-sr501](https://github.com/rgstephens/esp8266mqttPIR/blob/master/hc-sr501.jpg)
 ![Photo of Wiring](https://github.com/rgstephens/esp8266mqttPIR/blob/master/pirWiring.jpg)
